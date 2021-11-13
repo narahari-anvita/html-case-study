@@ -1,0 +1,75 @@
+#google{
+    width: 150px;
+    height: 130px;
+}
+
+h1{
+    color: red;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#google1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+p{
+    color: red;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    font-weight: bold; 
+}
+
+h2{
+    font-family: 'Nunito', sans-serif;
+    color: rgb(0, 0, 189);
+}
+
+ol
+{
+    background: rgb(114, 114, 114);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    height: 600px;
+    width: 80%;
+    color: white;
+    box-shadow: 8px 8px 8px rgb(0, 0, 0);
+}
+
+#google_lens{
+    background-color: white;
+    border-radius: 15px;
+    color: rgb(153, 0, 255);
+    height: 40px;
+    font-size: 15px;
+    width: 350px;
+}
+
+#mobilenet{
+    background-color: white;
+    border-radius: 15px;
+    color: rgb(153, 0, 255);
+    height: 40px;
+    font-size: 15px;
+    width: 350px;
+}
+
+span{
+    color: red;
+}
+
+.copy_right_footer {
+    font-size: 20px;
+    text-shadow: 5px 5px 5px rgb(96, 106, 255);
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 237, 221);
+    line-height: 3;
+    text-align: center;
+  }
